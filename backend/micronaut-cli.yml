@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: collatz
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jdbc, gradle, http-client, jackson-databind, java, java-application, jdbc-hikari, jib, logback, micronaut-build, netty-server, postgres, readme, shade, spock, testcontainers, yaml]
